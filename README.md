@@ -1,4 +1,4 @@
-Universal GcodeSender is a Java based GRBL compatibl cross platform G-Code sender. Use this program to run a GRBL controlled CNC machine.
+Universal GcodeSender is a Java based GRBL compatible cross platform G-Code sender. Use this program to run a GRBL controlled CNC machine.
 
 To run simply unzip the .zip file and double click the .jar file.
 On some platforms you will need to run 'UniversalGcodeSender.sh' instead.
@@ -8,9 +8,9 @@ You may need to create a "/var/lock" directory on OSX to fix a bug in the serial
 library. To do this open the Terminal application and run the following two
 commands:
 <br />
-   sudo mkdir /var/lock
+   '''sudo mkdir /var/lock'''
 <br />
-   sudo chmod 777 /var/lock
+   '''sudo chmod 777 /var/lock'''
 <br />
 
 Downloads
